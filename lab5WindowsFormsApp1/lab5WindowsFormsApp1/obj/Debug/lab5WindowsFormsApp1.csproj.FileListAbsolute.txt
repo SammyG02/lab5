@@ -1,0 +1,11 @@
+C:\Users\Samuel\Desktop\1 Term\Windows Programming\assignments\lab5\lab5WindowsFormsApp1\lab5WindowsFormsApp1\bin\Debug\lab5WindowsFormsApp1.exe.config
+C:\Users\Samuel\Desktop\1 Term\Windows Programming\assignments\lab5\lab5WindowsFormsApp1\lab5WindowsFormsApp1\bin\Debug\lab5WindowsFormsApp1.exe
+C:\Users\Samuel\Desktop\1 Term\Windows Programming\assignments\lab5\lab5WindowsFormsApp1\lab5WindowsFormsApp1\bin\Debug\lab5WindowsFormsApp1.pdb
+C:\Users\Samuel\Desktop\1 Term\Windows Programming\assignments\lab5\lab5WindowsFormsApp1\lab5WindowsFormsApp1\obj\Debug\lab5WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Samuel\Desktop\1 Term\Windows Programming\assignments\lab5\lab5WindowsFormsApp1\lab5WindowsFormsApp1\obj\Debug\lab5WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Samuel\Desktop\1 Term\Windows Programming\assignments\lab5\lab5WindowsFormsApp1\lab5WindowsFormsApp1\obj\Debug\lab5WindowsFormsApp1.Form1.resources
+C:\Users\Samuel\Desktop\1 Term\Windows Programming\assignments\lab5\lab5WindowsFormsApp1\lab5WindowsFormsApp1\obj\Debug\lab5WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Samuel\Desktop\1 Term\Windows Programming\assignments\lab5\lab5WindowsFormsApp1\lab5WindowsFormsApp1\obj\Debug\lab5WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Samuel\Desktop\1 Term\Windows Programming\assignments\lab5\lab5WindowsFormsApp1\lab5WindowsFormsApp1\obj\Debug\lab5WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Samuel\Desktop\1 Term\Windows Programming\assignments\lab5\lab5WindowsFormsApp1\lab5WindowsFormsApp1\obj\Debug\lab5WindowsFormsApp1.exe
+C:\Users\Samuel\Desktop\1 Term\Windows Programming\assignments\lab5\lab5WindowsFormsApp1\lab5WindowsFormsApp1\obj\Debug\lab5WindowsFormsApp1.pdb
